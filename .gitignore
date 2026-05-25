@@ -1,8 +1,0 @@
-node_modules/
-.next/
-.env.local
-
-api-usuarios/venv/
-api-usuarios/__pycache__/
-
-*.pyc
